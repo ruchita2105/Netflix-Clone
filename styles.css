@@ -274,7 +274,7 @@ body {
   margin-bottom: 10px;
 }
 
-.overlay-controls {
+.overlay-control {
   display: flex;
   gap: 8px;
   margin-bottom: 10px;
@@ -422,7 +422,7 @@ body {
     font-size: 12px;
   }
 
-  .overlay-controls {
+  .overlay-control {
     gap: 6px;
   }
 
@@ -483,7 +483,7 @@ body {
     font-size: 10px;
   }
 
-  .overlay-controls {
+  .overlay-control {
     gap: 4px;
     margin-bottom: 6px;
   }
